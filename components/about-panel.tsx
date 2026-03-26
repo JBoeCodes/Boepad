@@ -82,7 +82,7 @@ export function AboutPanel({ open, onClose }: AboutPanelProps) {
             No chat · No prompts · AI that augments your thinking
           </p>
           <p className="mt-3 text-xs text-muted-foreground/50">
-            by{" "}
+            A design experiment by{" "}
             <a
               href="http://mskayyali.com"
               target="_blank"
